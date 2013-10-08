@@ -40,7 +40,7 @@ public class Librairie {
     }
 
     public static void main(String[] args) {
-        Livre l1 = new Livre("a1", "t1");
+        Livre l1 = new Livre("Le roi Lion en trois volumes", "t1");
         l1.setNbPages(200);
         l1.setPrix(239.50);
         Livre l2 = new Livre("a2", "t2");
